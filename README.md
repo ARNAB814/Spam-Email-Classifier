@@ -1,7 +1,5 @@
 # Spam-Email-Detector
  
-# Email Spam Detection
-
 ## Overview
 This Email Spam Detection project utilizes AI and ML technologies to identify and filter out spam emails. The project is based on Python and leverages libraries like NumPy, Pandas, and Scikit-Learn. The core of the project is a Logistic Regression model trained on a dataset of emails categorized as 'spam' or 'ham'.
 
